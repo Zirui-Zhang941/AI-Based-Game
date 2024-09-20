@@ -13,6 +13,6 @@ To start the game, run the `.py` file. The AI will automatically make its moves.
 
 ## AI Performance
 
-- The AI algorithm has been tested randomly and can win approximately 2 out of 3 games. 
+- The AI algorithm has been tested randomly and can win approximately 2/3 of the games. 
 
 Enjoy the game!
