@@ -1,3 +1,18 @@
-# AI-Based-Game
-Run the .py file and the game starts, AI will automaticlly move, what u need to do first is put four nodes at the chest table(table is 5x5 size). After placing four nodes, it is time to move the nodes. To win the game, make four nodes form a line of any direction. 
-PS: this AI algorithem could win 2/3 of the games played randomly tested, so enjoy the game! 
+# AI-Based Game
+
+To start the game, run the `.py` file. The AI will automatically make its moves. Here’s how to play:
+
+## Game Setup
+
+1. **Place Four Nodes**: 
+   - You need to place four nodes on the chest table, which is a 5x5 grid.
+
+## Objective
+
+- Your goal is to make the four nodes form a line in any direction (horizontal, vertical, or diagonal) to win the game.
+
+## AI Performance
+
+- The AI algorithm has been tested randomly and can win approximately 2 out of 3 games. 
+
+Enjoy the game!
