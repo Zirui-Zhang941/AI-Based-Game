@@ -12,7 +12,7 @@ To start the game, run the `.py` file. The AI will automatically make its moves.
 - Your goal is to make the four nodes form a line in any direction (horizontal, vertical, or diagonal) to win the game.
 
 ## AI Performance
-- Based on the A* search algorithm
+- Based on the Heuristic evaluation
 - The AI algorithm has been tested randomly and can win approximately 2/3 of the games. 
 
 Enjoy the game!
